@@ -1,0 +1,64 @@
+Privacy Policy – Kido Tracker
+Effective date: November 13, 2026
+Kido Tracker (the 'App') is operated by LitzTech ('we', 'us', 'our'). This Privacy Policy explains what information the App collects, how we use it, who we share it with, and the choices you have. By using the App you agree to this Policy.
+1. Who the App is for
+Kido Tracker is meant for parents and legal guardians (18 years or older). Parents create an account and then add information about their child. The App is not directed to children, and children are not meant to create accounts or use the App on their own. We do not knowingly collect information directly from children.
+2. Information we collect
+a) Account information
+•	Your name, email address and password (passwords are handled by Firebase Authentication).
+•	Your phone number, if you provide it.
+b) Child profile information (provided by you)
+•	Child's name, date of birth, gender and the contact phone number linked to the profile.
+c) Assessment information
+•	Your answers to development questions, the resulting scores and reports, and the date of each assessment.
+•	Records of payments made for assessments (see section 2f).
+d) Location information
+•	With your permission, your device's precise location (GPS) to show hospitals and therapy centers near you.
+•	Or a location you choose yourself by searching or selecting a point on a map.
+•	We use location only while you are using the App. We do not track your location in the background.
+e) Appointments and support messages
+•	When you book an appointment: the child's profile, the doctor, the hospital, the date and the time slot.
+•	Messages you send through Help & Support, and our replies.
+f) Payment information
+•	Payments are processed by a third-party payment provider. We do not receive or store your card, UPI or bank details. We keep only the payment status and transaction reference needed to confirm that an assessment was paid for.
+g) Technical information
+•	Basic device and app diagnostic information (such as app version, device model and crash or error logs) collected through Google and Firebase services.
+3. How we use your information
+•	To create and manage your account and your child's profiles.
+•	To provide age-appropriate development assessments, results and reports.
+•	To show nearby hospitals, therapy centers and doctors, and to let you book appointments.
+•	To process payments and keep payment records.
+•	To respond to your support requests.
+•	To show news and updates, and to improve the App's reliability and security.
+•	To comply with legal obligations.
+We do not sell your personal information, and we do not show third-party advertising in the App.
+4. Who we share information with
+•	Hospitals and doctors you book with: when you request an appointment, the hospital receives the details needed to hold the slot (parent's contact details, child's name and age, doctor, date and time).
+•	Service providers that help us run the App, under their own privacy terms: Google Firebase (authentication, database, storage), Google Maps and location services, YouTube (for videos shown inside assessments), and our payment provider [Razorpay / your payment provider].
+•	Legal reasons: if required by law, court order or to protect the rights and safety of users or the public.
+We do not share your information with anyone else without your consent.
+5. Data storage and security
+Your information is stored on Google Firebase / Google Cloud servers. We use reasonable technical and organizational measures, including encrypted connections (HTTPS) and access controls, to protect it. No method of storage or transmission is completely secure, so we cannot guarantee absolute security.
+6. Data retention and deletion
+We keep your information for as long as your account is active and as needed to provide the App and meet legal and accounting obligations. You can ask us to delete your account and associated data (including your child's profiles, assessments and support messages) by emailing [contact email] from your registered email address, or by using the account deletion option in the App [add if available]. We will act on verified requests within a reasonable time, normally within 30 days. Some records, such as payment records, may be kept longer where the law requires.
+7. Your choices and rights
+You may:
+•	Access and correct the information in your account and your child's profile.
+•	Withdraw location permission at any time in your device settings (you can still choose a location manually).
+•	Request deletion of your account and data.
+•	Withdraw consent for processing, which may limit some features.
+•	Raise a complaint about how your data is handled.
+To use these rights, contact us at [contact email].
+8. Children's privacy and parental consent
+Information about a child is provided and controlled by the child's parent or guardian. By adding a child profile, you confirm that you are the child's parent or legal guardian and that you consent to us processing the child's information as described in this Policy. Parents may review, correct or request deletion of their child's information at any time using the contact details below. If you believe a child has provided us information without a parent's consent, please contact us and we will delete it.
+9. Not medical advice
+Kido Tracker is a developmental screening aid. Results are not a medical diagnosis and do not replace professional medical advice. Please consult a qualified doctor about any concern regarding your child's health or development.
+10. Third-party links and services
+The App may open third-party services such as Google Maps, phone dialer or YouTube. These services have their own privacy policies, and we are not responsible for their practices.
+11. Applicable law (India)
+We process personal data in accordance with applicable Indian law, including the Information Technology Act, 2000 and the Digital Personal Data Protection Act, 2023, including the requirement of parental consent for children's data.
+12. Changes to this Policy
+We may update this Policy from time to time. The latest version will always be available at this page, with the effective date shown at the top. If we make significant changes, we will notify you in the App.
+13. Contact us
+LitzTech, Peelamedu, Chitra Nagar, Civil Aerodrome Post, Coimbatore, Tamil Nadu 641045, India Email: surya.litztech@gmail.com Phone: 9042090708
+Grievance Officer: Levale Xavier, levalegowtham3@gmail.com
